@@ -2,6 +2,12 @@
 
 A LangGraph-based incident response agent that investigates alerts by gathering evidence across multiple observability tools and synthesising a root cause analysis.
 
+![Python](https://img.shields.io/badge/python-3.11+-blue)
+![LangGraph](https://img.shields.io/badge/langgraph-latest-green)
+![LangChain](https://img.shields.io/badge/langchain-latest-green)
+![Ollama](https://img.shields.io/badge/ollama-local-orange)
+![LangSmith](https://img.shields.io/badge/langsmith-tracing-purple)
+
 ## Architecture
 
 ```
